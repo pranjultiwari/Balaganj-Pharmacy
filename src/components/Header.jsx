@@ -13,12 +13,12 @@ const Header = () => {
         {/* Left side: Logo and Company Name */}
         <div className="flex items-center">
           <img
-            src="https://content.jdmagicbox.com/comp/chennai/g2/044pxx44.xx44.111123095932.h7g2/catalogue/balaji-pharmaceuticals-saligramam-chennai-pharmaceutical-distributors-42rnyfs-250.jpg"
+          
+            src="public\Logo.png"
             alt="Logo"
             className="h-8 w-8 mr-2"
           />
           <span className="text-lg font-bold text-[#5cb25d]">
-            Balaji Pharmaceuticals
           </span>
         </div>
         {/* Right side: Navigation Links */}

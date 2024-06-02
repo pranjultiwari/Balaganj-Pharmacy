@@ -7,8 +7,8 @@ const Footer = () => {
         <div className="flex flex-wrap justify-between">
           {/* Company Information */}
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
-            <h2 className="text-lg font-bold mb-4">Balaji Pharmaceuticals</h2>
-            <p>Your trusted source for quality medicines and healthcare products.</p>
+            <h2 className="text-lg font-bold mb-4">Balaganj Pharmacy</h2>
+            <p>Explore the <strong>widest range</strong> of <strong>Healthcare products</strong> from your <strong>trusted store</strong></p>
           </div>  
           {/* Useful Links */}
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
@@ -40,14 +40,14 @@ const Footer = () => {
                 <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 5h12M9 3v2m0 4v12m-3 0h6" />
                 </svg>
-                info@balajipharmaceuticals.com
+                info@balaganjpharmacy.com
               </li>
             </ul>
           </div>
         </div>
         {/* Footer Bottom */}
         <div className="border-t border-green-400 mt-6 pt-4 text-center">
-          &copy; {new Date().getFullYear()} Balaji Pharmaceuticals. All rights reserved.
+          &copy; {new Date().getFullYear()} Balaganj Pharmacy. All rights reserved.
         </div>
       </div>
     </footer>
