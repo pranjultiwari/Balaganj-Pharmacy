@@ -1,5 +1,9 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faPhone, faClock, faLocationDot } from '@fortawesome/free-solid-svg-icons';
+import { faWhatsapp, faFacebookF, faInstagram, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
+
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
@@ -8,22 +12,68 @@ const Header = () => {
   };
 
   return (
-    <header className=" text-white bg-black ">
+    <header className="text-white bg-[#0B1F52]">
+      {/* Mini Header */}
+      <div className="bg-[#000000] text-white py-2">
+        <div className="container mx-auto flex justify-between items-center px-6 text-sm">
+          <div className="flex items-center space-x-4">
+            <span className="flex items-center space-x-2">
+              <a
+                href="https://www.google.com/maps/place/desired+location"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center space-x-2 hover:text-green-500"
+              >
+                <FontAwesomeIcon icon={faLocationDot} className="text-[#5cb25d]" />
+                <span>Locate Balaganj Pharmacy</span>
+              </a>
+            </span>
+            <span className="flex items-center space-x-2">
+              <a href="tel:+01234567890" className="flex items-center space-x-2 hover:text-green-500">
+                <FontAwesomeIcon icon={faPhone} className="text-[#5cb25d]" />
+                <span>+01234567890</span>
+              </a>
+            </span>
+            <span className="flex items-center space-x-2">
+              <FontAwesomeIcon icon={faClock} className="text-[#5cb25d]" />
+              <span>Mon-Sat: 8:00am to 12:am</span>
+            </span>
+          </div>
+          <div className="flex space-x-4">
+            <a
+              href="https://wa.me/99999999"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-green-500"
+            >
+              <FontAwesomeIcon icon={faWhatsapp} className="hover:animate-bounce" />
+            </a>
+            <a href="#" className="hover:text-green-500">
+              <FontAwesomeIcon icon={faFacebookF} className="hover:animate-bounce" />
+            </a>
+            <a href="#" className="hover:text-green-500">
+              <FontAwesomeIcon icon={faInstagram} className="hover:animate-bounce" />
+            </a>
+            <a href="#" className="hover:text-green-500">
+              <FontAwesomeIcon icon={faLinkedinIn} className="hover:animate-bounce" />
+            </a>
+          </div>
+        </div>
+      </div>
+      {/* Main Header */}
       <div className="container mx-auto flex justify-between items-center py-4 px-6">
         {/* Left side: Logo and Company Name */}
         <div className="flex items-center">
           <img
-          
-            src="src\assets\images\Logo.png"
+            src="src/assets/images/Logo.png"
             alt="Logo"
-            className="h-8 w-8 mr-2"
+            className="h-15 w-60 mr-2"
           />
-          <span className="text-lg font-bold text-[#5cb25d]">
-          </span>
+          <span className="text-lg font-bold text-[#5cb25d]"></span>
         </div>
         {/* Right side: Navigation Links */}
         <nav className={`hidden md:flex space-x-6 text-white`}>
-          <Link to="/" className="hover:text-green-500">
+          <Link to="/" className="hover:text-green-500" >
             Home
           </Link>
           <Link to="/services" className="hover:text-green-500">
