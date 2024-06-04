@@ -1,0 +1,9 @@
+/* customStyles.css */
+.green-shadow {
+    transition: box-shadow 0.5s ease-in-out;
+  }
+  
+  .green-shadow:hover {
+    box-shadow: 0 0 15px 5px rgba(16, 185, 129, 0.5);
+  }
+  
