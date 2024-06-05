@@ -6,7 +6,7 @@ const About = () => {
     <div className="flex flex-col md:flex-row items-center p-4">
       <div className="md:w-1/2 flex flex-col justify-center items-center p-4">
         <h1 className="text-6xl font-bold mb-4 mt-8 md:mt-0 text-center text-green-500">
-          Balaji Pharmacy
+          Balaganj Pharmacy
         </h1>
         <div className="relative bg-white border-4 border-green-500 p-6 rounded-lg shadow-lg cloud-shape">
           <h2 className="text-xl font-bold mb-2 text-center">
@@ -18,8 +18,7 @@ const About = () => {
             products to ensure your well-being.
           </p>
           <p className="mb-2">
-            Our experienced pharmacists are here to provide you with
-            personalized advice and support. We are committed to offering
+            We are committed to offering
             high-quality products at affordable prices.
           </p>
           <p className="mb-2">
@@ -31,7 +30,7 @@ const About = () => {
           
         </div>
       </div>
-      <div className="md:w-1/2 p-4 h-full flex justify-center items-center">
+      <div className="md:w-1/2 p-4 h-full flex justify-center items-center ">
         <img
           src={balaji}
           alt="Medical Shop"
