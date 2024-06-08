@@ -16,7 +16,7 @@ const Allopathy = () => {
   return (
     <div>
       <SearchBar
-        placeholder="Search Ayurveda medicines..."
+        placeholder="Search Allopathy medicines..."
         onSearch={handleSearch}
       />
       <div className="flex flex-wrap justify-center">
