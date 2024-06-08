@@ -1,6 +1,7 @@
-import React from "react";
+import { useState } from "react";
 import MedicineCard from "../../components/MedicineCard";
 import data from "../../data/medicines/Lifestyle.json";
+import SearchBar from  "../../components/SearchBar"
 const Lifestyle = () => {
   const [filteredData, setFilteredData] = useState(data);
 
