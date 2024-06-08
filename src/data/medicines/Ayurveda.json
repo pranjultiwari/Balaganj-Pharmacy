@@ -1,0 +1,153 @@
+[
+    {
+      "name": "Ashwagandha",
+      "price": 15.00,
+      "description": "Ashwagandha is an ancient medicinal herb with multiple health benefits, including reduced anxiety and stress.",
+      "image": "https://example.com/images/ashwagandha.jpg"
+    },
+    {
+      "name": "Turmeric",
+      "price": 12.00,
+      "description": "Turmeric is a popular spice with powerful anti-inflammatory and antioxidant properties.",
+      "image": "https://example.com/images/turmeric.jpg"
+    },
+    {
+      "name": "Brahmi",
+      "price": 14.00,
+      "description": "Brahmi is known for improving brain function and enhancing memory and concentration.",
+      "image": "https://example.com/images/brahmi.jpg"
+    },
+    {
+      "name": "Triphala",
+      "price": 10.00,
+      "description": "Triphala is an herbal concoction that helps in detoxification and promotes digestive health.",
+      "image": "https://example.com/images/triphala.jpg"
+    },
+    {
+      "name": "Neem",
+      "price": 11.00,
+      "description": "Neem is used for its anti-bacterial, anti-fungal, and anti-inflammatory properties.",
+      "image": "https://example.com/images/neem.jpg"
+    },
+    {
+      "name": "Tulsi",
+      "price": 8.00,
+      "description": "Tulsi, or Holy Basil, is revered for its healing properties and is used to treat a variety of ailments.",
+      "image": "https://example.com/images/tulsi.jpg"
+    },
+    {
+      "name": "Ginger",
+      "price": 9.00,
+      "description": "Ginger is widely used for its digestive benefits and to reduce nausea and inflammation.",
+      "image": "https://example.com/images/ginger.jpg"
+    },
+    {
+      "name": "Amla",
+      "price": 13.00,
+      "description": "Amla is rich in Vitamin C and helps boost immunity, enhance digestion, and improve skin health.",
+      "image": "https://example.com/images/amla.jpg"
+    },
+    {
+      "name": "Shilajit",
+      "price": 20.00,
+      "description": "Shilajit is a natural substance that boosts energy, improves stamina, and promotes overall health.",
+      "image": "https://example.com/images/shilajit.jpg"
+    },
+    {
+      "name": "Gokshura",
+      "price": 18.00,
+      "description": "Gokshura is known for its benefits in boosting strength and vitality and improving kidney health.",
+      "image": "https://example.com/images/gokshura.jpg"
+    },
+    {
+      "name": "Licorice",
+      "price": 10.50,
+      "description": "Licorice root is used to soothe digestive issues, respiratory problems, and skin conditions.",
+      "image": "https://example.com/images/licorice.jpg"
+    },
+    {
+      "name": "Fenugreek",
+      "price": 7.50,
+      "description": "Fenugreek is used for its benefits in regulating blood sugar levels and improving digestion.",
+      "image": "https://example.com/images/fenugreek.jpg"
+    },
+    {
+      "name": "Guduchi",
+      "price": 16.00,
+      "description": "Guduchi, also known as Giloy, is known for its immunity-boosting and anti-inflammatory properties.",
+      "image": "https://example.com/images/guduchi.jpg"
+    },
+    {
+      "name": "Shatavari",
+      "price": 17.00,
+      "description": "Shatavari is used for its benefits in supporting female reproductive health and balancing hormones.",
+      "image": "https://example.com/images/shatavari.jpg"
+    },
+    {
+      "name": "Bitter Melon",
+      "price": 9.50,
+      "description": "Bitter Melon is used to regulate blood sugar levels and improve digestion.",
+      "image": "https://example.com/images/bitter_melon.jpg"
+    },
+    {
+      "name": "Cumin",
+      "price": 6.00,
+      "description": "Cumin is a spice known for its digestive benefits and ability to enhance the flavor of foods.",
+      "image": "https://example.com/images/cumin.jpg"
+    },
+    {
+      "name": "Cardamom",
+      "price": 12.50,
+      "description": "Cardamom is a spice with digestive benefits and a pleasant aroma, often used in cooking and teas.",
+      "image": "https://example.com/images/cardamom.jpg"
+    },
+    {
+      "name": "Fennel",
+      "price": 8.50,
+      "description": "Fennel seeds are known for their digestive benefits and can help reduce bloating and gas.",
+      "image": "https://example.com/images/fennel.jpg"
+    },
+    {
+      "name": "Coriander",
+      "price": 7.00,
+      "description": "Coriander seeds are used to improve digestion and help detoxify the body.",
+      "image": "https://example.com/images/coriander.jpg"
+    },
+    {
+      "name": "Hibiscus",
+      "price": 13.50,
+      "description": "Hibiscus is used to make tea that can help lower blood pressure and improve liver health.",
+      "image": "https://example.com/images/hibiscus.jpg"
+    },
+    {
+      "name": "Moringa",
+      "price": 14.50,
+      "description": "Moringa is a nutrient-dense plant that boosts energy levels, improves digestion, and enhances overall health.",
+      "image": "https://example.com/images/moringa.jpg"
+    },
+    {
+      "name": "Cinnamon",
+      "price": 9.00,
+      "description": "Cinnamon is a spice with powerful antioxidant properties, used to improve metabolism and digestion.",
+      "image": "https://example.com/images/cinnamon.jpg"
+    },
+    {
+      "name": "Saffron",
+      "price": 25.00,
+      "description": "Saffron is a precious spice known for its rich flavor and potential health benefits, including mood enhancement.",
+      "image": "https://example.com/images/saffron.jpg"
+    },
+    {
+      "name": "Boswellia",
+      "price": 18.50,
+      "description": "Boswellia is known for its anti-inflammatory properties and is used to support joint health.",
+      "image": "https://example.com/images/boswellia.jpg"
+    },
+    {
+      "name": "Gotu Kola",
+      "price": 15.50,
+      "description": "Gotu Kola is an herb that supports brain function, promotes skin health, and improves circulation.",
+      "image": "https://example.com/images/gotu_kola.jpg"
+    }
+  ]
+  

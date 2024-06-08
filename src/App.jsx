@@ -7,6 +7,9 @@ import Contact from "./pages/Contact";
 import Error from "./pages/Error";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import Allopathy from "./pages/Medicines/Allopathy";
+import Ayurveda from "./pages/Medicines/Ayurveda";
+import Lifestyle from "./pages/Medicines/Lifestyle";
 const App = () => {
   return (
     <BrowserRouter>
@@ -16,6 +19,10 @@ const App = () => {
         <Route path="/about" element={<About></About>}></Route>
         <Route path="/services" element={<Services></Services>}></Route>
         <Route path="/contact" element={<Contact></Contact>}></Route>
+        <Route path="/allopathy" element={<Allopathy></Allopathy>}></Route>
+        <Route path="/ayurveda" element={<Ayurveda></Ayurveda>}></Route>
+        <Route path="/lifestyle" element={<Lifestyle></Lifestyle>}></Route>
+
         <Route path="*" element={<Error></Error>}></Route>
       </Routes>
       <Footer></Footer>

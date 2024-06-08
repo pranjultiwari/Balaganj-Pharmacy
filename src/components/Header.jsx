@@ -19,7 +19,7 @@ const Header = () => {
           <div className="flex items-center space-x-4">
             <span className="flex items-center space-x-2">
               <a
-                href="https://www.google.com/maps/place/desired+location"
+                href="https://www.google.com/maps/place/Balaganj+Pharmacy/@26.8720663,80.8786663,17z/data=!3m1!4b1!4m6!3m5!1s0x399bffcd7ef6e469:0x6fb9b36ed3fc620d!8m2!3d26.8720663!4d80.8812412!16s%2Fg%2F11jpwznmcy?entry=ttu"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 hover:text-green-500"

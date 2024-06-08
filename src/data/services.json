@@ -2,16 +2,19 @@
   {
     "name": "Allopathy",
     "img": "src\\assets\\images\\Allopathy.jpeg",
-    "description": "Allopathy, also known as modern medicine, is a system of medical practice that uses scientifically validated methods to diagnose and treat various health conditions. It involves the use of medications, surgeries, and other therapeutic interventions to alleviate symptoms and cure diseases. Allopathic medicine emphasizes evidence-based treatment, ensuring patients receive the most effective and safe care possible. At our shop, we provide a wide range of allopathic medicines to help you manage and improve your health efficiently. Trust us for quality healthcare solutions tailored to your needs."
+    "description": "Allopathy, also known as modern medicine, is a system of medical practice that uses scientifically validated methods to diagnose and treat various health conditions. It involves the use of medications, surgeries, and other therapeutic interventions to alleviate symptoms and cure diseases. Allopathic medicine emphasizes evidence-based treatment, ensuring patients receive the most effective and safe care possible. At our shop, we provide a wide range of allopathic medicines to help you manage and improve your health efficiently. Trust us for quality healthcare solutions tailored to your needs.",
+    "link":"/allopathy"
   },
   {
     "name": "Ayurveda",
     "img": "src\\assets\\images\\ayurveda.jpg",
-    "description": "Ayurveda, a traditional system of medicine from India, focuses on achieving harmony and balance in the body, mind, and spirit. Rooted in ancient wisdom, Ayurveda utilizes natural remedies, including herbs, diet, and lifestyle practices, to promote overall well-being and prevent illnesses. It emphasizes the importance of individualized treatment, understanding that each person has a unique constitution. At our shop, we offer a range of authentic Ayurvedic products designed to support your health naturally and holistically. Discover the benefits of Ayurveda and embrace a balanced, healthier life with our carefully curated selections."
+    "description": "Ayurveda, a traditional system of medicine from India, focuses on achieving harmony and balance in the body, mind, and spirit. Rooted in ancient wisdom, Ayurveda utilizes natural remedies, including herbs, diet, and lifestyle practices, to promote overall well-being and prevent illnesses. It emphasizes the importance of individualized treatment, understanding that each person has a unique constitution. At our shop, we offer a range of authentic Ayurvedic products designed to support your health naturally and holistically. Discover the benefits of Ayurveda and embrace a balanced, healthier life with our carefully curated selections.",
+    "link":"/ayurveda"
   },
   {
     "name": "Lifestyle and Personalization",
     "img": "src\\assets\\images\\Healthcare and Lifestyle.avif",
-    "description": "Achieving optimal health goes beyond medicine; it encompasses a holistic approach to lifestyle and personalized care. Our philosophy centers on the belief that every individual is unique, and their wellness journey should reflect that. By understanding your specific needs, preferences, and lifestyle, we offer tailored solutions that fit seamlessly into your daily routine. From customized dietary plans and exercise regimens to personalized wellness products, our goal is to help you lead a healthier, more balanced life. At our shop, we are dedicated to providing personalized care that empowers you to take charge of your health and well-being."
+    "description": "Achieving optimal health goes beyond medicine; it encompasses a holistic approach to lifestyle and personalized care. Our philosophy centers on the belief that every individual is unique, and their wellness journey should reflect that. By understanding your specific needs, preferences, and lifestyle, we offer tailored solutions that fit seamlessly into your daily routine. From customized dietary plans and exercise regimens to personalized wellness products, our goal is to help you lead a healthier, more balanced life. At our shop, we are dedicated to providing personalized care that empowers you to take charge of your health and well-being.",
+    "link":"/lifestyle"
   }
 ]

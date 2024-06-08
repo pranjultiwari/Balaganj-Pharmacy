@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Paracetamol",
+    "price": 2.5,
+    "description": "Paracetamol is a common pain reliever and fever reducer. It is used to treat headaches, muscle aches, arthritis, backaches, toothaches, colds, and fevers.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Ibuprofen",
+    "price": 3.0,
+    "description": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) that is used to reduce fever and treat pain or inflammation caused by many conditions such as headache, toothache, arthritis, menstrual cramps, or minor injury.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Amoxicillin",
+    "price": 12.0,
+    "description": "Amoxicillin is a penicillin antibiotic that fights bacteria. It is used to treat different types of infection caused by bacteria, such as tonsillitis, bronchitis, pneumonia, and infections of the ear, nose, throat, skin, or urinary tract.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Aspirin",
+    "price": 4.0,
+    "description": "Aspirin is used to reduce fever and relieve mild to moderate pain from conditions such as muscle aches, toothaches, common cold, and headaches. It may also be used to reduce pain and swelling in conditions such as arthritis.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Cetirizine",
+    "price": 5.0,
+    "description": "Cetirizine is an antihistamine used to relieve allergy symptoms such as watery eyes, runny nose, itching eyes/nose, sneezing, hives, and itching.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Azithromycin",
+    "price": 15.0,
+    "description": "Azithromycin is an antibiotic that fights bacteria. It is used to treat many different types of infections caused by bacteria, such as respiratory infections, skin infections, ear infections, and sexually transmitted diseases.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Lisinopril",
+    "price": 8.0,
+    "description": "Lisinopril is an ACE inhibitor that is used to treat high blood pressure (hypertension) and heart failure. It is also used to improve survival after a heart attack.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Metformin",
+    "price": 6.0,
+    "description": "Metformin is an oral diabetes medicine that helps control blood sugar levels. It is used together with diet and exercise to improve blood sugar control in adults with type 2 diabetes mellitus.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Atorvastatin",
+    "price": 10.0,
+    "description": "Atorvastatin is used together with diet to lower blood levels of bad cholesterol (low-density lipoprotein, or LDL), to increase levels of good cholesterol (high-density lipoprotein, or HDL), and to lower triglycerides.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Omeprazole",
+    "price": 7.0,
+    "description": "Omeprazole is used to treat symptoms of gastroesophageal reflux disease (GERD) and other conditions caused by excess stomach acid. It is also used to promote healing of erosive esophagitis.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Hydrochlorothiazide",
+    "price": 4.5,
+    "description": "Hydrochlorothiazide is a diuretic (water pill) that helps prevent your body from absorbing too much salt, which can cause fluid retention. It is used to treat high blood pressure and fluid retention.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Gabapentin",
+    "price": 9.0,
+    "description": "Gabapentin is an anti-epileptic medication, also called an anticonvulsant. It is used alone or in combination with other medications to treat seizures in adults and children who are at least 3 years old.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Levothyroxine",
+    "price": 8.5,
+    "description": "Levothyroxine is a replacement for a hormone that is normally produced by your thyroid gland to regulate the body's energy and metabolism. It is used to treat hypothyroidism (low thyroid hormone).",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Amlodipine",
+    "price": 6.5,
+    "description": "Amlodipine is used to treat high blood pressure (hypertension) or chest pain (angina) and other conditions caused by coronary artery disease.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Simvastatin",
+    "price": 5.5,
+    "description": "Simvastatin is used together with diet, weight-loss, and exercise to reduce the risk of heart attack and stroke. It is also used to reduce the need for surgery to correct blocked arteries.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Prednisone",
+    "price": 4.0,
+    "description": "Prednisone is a corticosteroid. It prevents the release of substances in the body that cause inflammation. It also suppresses the immune system.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Clindamycin",
+    "price": 11.0,
+    "description": "Clindamycin is an antibiotic that fights bacteria in the body. It is used to treat serious infections caused by bacteria.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Sertraline",
+    "price": 9.5,
+    "description": "Sertraline is an antidepressant in a group of drugs called selective serotonin reuptake inhibitors (SSRIs). It is used to treat depression, anxiety, panic attacks, and other mood disorders.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Metoprolol",
+    "price": 7.5,
+    "description": "Metoprolol is a beta-blocker that affects the heart and circulation (blood flow through arteries and veins). It is used to treat angina (chest pain) and hypertension (high blood pressure).",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Ciprofloxacin",
+    "price": 14.0,
+    "description": "Ciprofloxacin is an antibiotic that fights bacteria in the body. It is used to treat different types of bacterial infections.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Clonazepam",
+    "price": 10.5,
+    "description": "Clonazepam is a benzodiazepine. It affects chemicals in the brain that may be unbalanced. It is used to treat certain seizure disorders and panic disorders.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Tramadol",
+    "price": 8.0,
+    "description": "Tramadol is a narcotic-like pain reliever. It is used to treat moderate to severe pain.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Warfarin",
+    "price": 7.0,
+    "description": "Warfarin is an anticoagulant (blood thinner). It reduces the formation of blood clots. Warfarin is used to treat or prevent blood clots in veins or arteries.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Pantoprazole",
+    "price": 6.5,
+    "description": "Pantoprazole is a proton pump inhibitor that decreases the amount of acid produced in the stomach. It is used to treat erosive esophagitis and other conditions involving excess stomach acid.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Montelukast",
+    "price": 5.5,
+    "description": "Montelukast is used to prevent asthma attacks and for the long-term treatment of asthma in adults and children. It is also used to treat allergy symptoms.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Doxycycline",
+    "price": 13.0,
+    "description": "Doxycycline is a tetracycline antibiotic that fights bacteria in the body. It is used to treat many different bacterial infections.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Venlafaxine",
+    "price": 11.0,
+    "description": "Venlafaxine is an antidepressant that is used to treat major depressive disorder, anxiety, and panic disorder.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Losartan",
+    "price": 7.0,
+    "description": "Losartan is used to treat high blood pressure (hypertension) and to help protect the kidneys from damage due to diabetes.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Hydrocodone",
+    "price": 10.0,
+    "description": "Hydrocodone is an opioid pain medication. It is used to relieve moderate to severe pain.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Furosemide",
+    "price": 6.0,
+    "description": "Furosemide is a loop diuretic (water pill) that prevents your body from absorbing too much salt. It is used to treat fluid retention in people with congestive heart failure, liver disease, or a kidney disorder.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Propranolol",
+    "price": 8.0,
+    "description": "Propranolol is a beta-blocker. It is used to treat tremors, angina (chest pain), hypertension (high blood pressure), heart rhythm disorders, and other heart or circulatory conditions.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Oxycodone",
+    "price": 12.0,
+    "description": "Oxycodone is an opioid pain medication. It is used to treat moderate to severe pain.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Spironolactone",
+    "price": 9.0,
+    "description": "Spironolactone is a potassium-sparing diuretic (water pill) that prevents your body from absorbing too much salt and keeps your potassium levels from getting too low. It is used to treat heart failure, high blood pressure, and hypokalemia (low potassium levels in the blood).",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Lorazepam",
+    "price": 11.0,
+    "description": "Lorazepam is a benzodiazepine. It is used to treat anxiety disorders and seizure disorders.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Duloxetine",
+    "price": 13.5,
+    "description": "Duloxetine is used to treat major depressive disorder, general anxiety disorder, and chronic pain.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Bupropion",
+    "price": 14.5,
+    "description": "Bupropion is an antidepressant used to treat major depressive disorder and seasonal affective disorder. It is also used to help people stop smoking.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Glipizide",
+    "price": 7.5,
+    "description": "Glipizide is an oral diabetes medicine that helps control blood sugar levels by helping your pancreas produce insulin.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Celecoxib",
+    "price": 12.0,
+    "description": "Celecoxib is a nonsteroidal anti-inflammatory drug (NSAID) that is used to treat pain or inflammation caused by many conditions such as arthritis, ankylosing spondylitis, and menstrual pain.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Fluoxetine",
+    "price": 11.5,
+    "description": "Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) that is used to treat major depressive disorder, bulimia nervosa (an eating disorder), obsessive-compulsive disorder (OCD), and panic disorder.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Citalopram",
+    "price": 10.0,
+    "description": "Citalopram is an antidepressant that is used to treat depression. It is also used to treat anxiety, panic attacks, and other mood disorders.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Tamsulosin",
+    "price": 9.5,
+    "description": "Tamsulosin is used to improve urination in men with benign prostatic hyperplasia (enlarged prostate).",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Ranitidine",
+    "price": 6.5,
+    "description": "Ranitidine is used to treat and prevent ulcers in the stomach and intestines. It is also used to treat conditions in which the stomach produces too much acid, such as Zollinger-Ellison syndrome.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Esomeprazole",
+    "price": 7.5,
+    "description": "Esomeprazole is a proton pump inhibitor that decreases the amount of acid produced in the stomach. It is used to treat symptoms of gastroesophageal reflux disease (GERD) and other conditions involving excessive stomach acid.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  },
+  {
+    "name": "Metronidazole",
+    "price": 12.5,
+    "description": "Metronidazole is an antibiotic that fights bacteria in the body. It is used to treat various infections.",
+    "image": "https://iimtu.edu.in/blog/wp-content/uploads/2023/08/Allopathy-1.jpeg"
+  }
+]

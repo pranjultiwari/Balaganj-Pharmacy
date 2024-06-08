@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Fitness Tracker",
+    "price": 45.0,
+    "description": "Monitor your physical activity, sleep patterns, and heart rate with this advanced fitness tracker.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Yoga Mat",
+    "price": 20.0,
+    "description": "A high-quality yoga mat that provides excellent grip and comfort for your daily yoga practice.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Resistance Bands",
+    "price": 15.0,
+    "description": "Enhance your workouts with these durable resistance bands, perfect for strength training and flexibility.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Essential Oil Diffuser",
+    "price": 30.0,
+    "description": "Create a calming atmosphere at home with this sleek essential oil diffuser, perfect for aromatherapy.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Water Bottle",
+    "price": 10.0,
+    "description": "Stay hydrated on the go with this BPA-free, leak-proof water bottle, ideal for everyday use.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Massage Gun",
+    "price": 70.0,
+    "description": "Relieve muscle soreness and tension with this powerful massage gun, featuring multiple speed settings.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Smart Scale",
+    "price": 40.0,
+    "description": "Track your weight, body fat percentage, and other health metrics with this smart scale.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Blender",
+    "price": 35.0,
+    "description": "Make smoothies, soups, and sauces with ease using this powerful and versatile blender.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Herbal Tea Set",
+    "price": 25.0,
+    "description": "Enjoy a variety of calming and invigorating herbal teas with this beautifully packaged tea set.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Sleep Mask",
+    "price": 8.0,
+    "description": "Improve your sleep quality with this comfortable, light-blocking sleep mask.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Air Purifier",
+    "price": 60.0,
+    "description": "Keep your indoor air clean and fresh with this efficient air purifier, ideal for homes and offices.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Meditation Cushion",
+    "price": 25.0,
+    "description": "Enhance your meditation practice with this comfortable and supportive meditation cushion.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Protein Powder",
+    "price": 50.0,
+    "description": "Boost your protein intake with this high-quality, plant-based protein powder, perfect for smoothies.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Foam Roller",
+    "price": 18.0,
+    "description": "Relieve muscle tension and improve flexibility with this durable foam roller, ideal for post-workout recovery.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Healthy Cookbook",
+    "price": 22.0,
+    "description": "Discover new healthy recipes with this comprehensive cookbook, featuring nutritious and delicious meals.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Jump Rope",
+    "price": 12.0,
+    "description": "Enhance your cardio workouts with this adjustable, tangle-free jump rope.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Running Shoes",
+    "price": 75.0,
+    "description": "Experience comfort and support during your runs with these high-performance running shoes.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Workout Clothes",
+    "price": 30.0,
+    "description": "Stay comfortable and stylish during your workouts with this set of moisture-wicking workout clothes.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Healthy Snacks",
+    "price": 20.0,
+    "description": "Enjoy a variety of nutritious and delicious snacks with this assortment of healthy treats.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Vitamin Supplements",
+    "price": 25.0,
+    "description": "Support your health with these high-quality vitamin supplements, formulated to meet your nutritional needs.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Green Juice Powder",
+    "price": 35.0,
+    "description": "Boost your energy and nutrient intake with this convenient green juice powder, packed with superfoods.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  },
+  {
+    "name": "Sun Protection Lotion",
+    "price": 15.0,
+    "description": "Protect your skin from harmful UV rays with this effective and non-greasy sun protection lotion.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gIVFG_FeOgWbQtNekRcNp-B3fqpS7Qq5Qg&s"
+  }
+]
