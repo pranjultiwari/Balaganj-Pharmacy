@@ -63,14 +63,14 @@ const Header = () => {
       {/* Main Header */}
       <div className="container mx-auto flex justify-between items-center py-4 px-6">
         {/* Left side: Logo and Company Name */}
-        <div className="flex items-center">
+        <Link to="/" className="flex items-center">
           <img
             src="src/assets/images/Logo.png"
             alt="Logo"
             className="h-15 w-60 mr-2"
           />
           <span className="text-lg font-bold text-[#5cb25d]"></span>
-        </div>
+        </Link>
         {/* Right side: Navigation Links */}
         <nav className={`hidden md:flex space-x-6 text-white`}>
           <Link to="/" className="hover:text-green-500" >

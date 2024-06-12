@@ -12,21 +12,19 @@ import Ayurveda from "./pages/Medicines/Ayurveda";
 import Lifestyle from "./pages/Medicines/Lifestyle";
 const App = () => {
   return (
-    <BrowserRouter>
-    <Header></Header>
-      <Routes>
-        <Route path="/" element={<Home></Home>}></Route>
-        <Route path="/about" element={<About></About>}></Route>
-        <Route path="/services" element={<Services></Services>}></Route>
-        <Route path="/contact" element={<Contact></Contact>}></Route>
-        <Route path="/allopathy" element={<Allopathy></Allopathy>}></Route>
-        <Route path="/ayurveda" element={<Ayurveda></Ayurveda>}></Route>
-        <Route path="/lifestyle" element={<Lifestyle></Lifestyle>}></Route>
-
-        <Route path="*" element={<Error></Error>}></Route>
-      </Routes>
-      <Footer></Footer>
-    </BrowserRouter>
+    <div>
+      <BrowserRouter>
+        <Header></Header>
+        <Routes>
+          <Route path="/" element={<Home classname="home" id="home"></Home>}></Route>
+          <Route path="/allopathy" element= {<Allopathy></Allopathy>}></Route>
+          <Route path="/ayurveda" element={<Ayurveda></Ayurveda>}></Route>
+          <Route path="/lifestyle" element={<Lifestyle></Lifestyle>}></Route>
+          <Route path="*" element={<Error></Error>}></Route>
+        </Routes>
+        <Footer></Footer>
+      </BrowserRouter>
+    </div>
   );
 };
 

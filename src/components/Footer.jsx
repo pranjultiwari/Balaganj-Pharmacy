@@ -6,7 +6,7 @@ import { faWhatsapp, faFacebookF, faInstagram } from '@fortawesome/free-brands-s
 
 const Footer = () => {
   return (
-    <footer className="bg-black text-white py-8">
+    <footer className="text-black py-8 border border-e-2 border-t-green-500">
       <div className="container mx-auto px-6">
         <div className="flex flex-wrap justify-between">
           {/* Contact Information */}
