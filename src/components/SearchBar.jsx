@@ -11,6 +11,12 @@ const SearchBar = ({ placeholder, onSearch }) => {
     onSearch(query);
   };
 
+  const handleKeyDown = (e) => {
+    if (e.key === 'Enter') {
+      handleSearch();
+    }
+  };
+
   return (
     <div className="flex justify-center mb-4 mt-5">
       <div className="flex items-center w-full max-w-md">
@@ -20,6 +26,7 @@ const SearchBar = ({ placeholder, onSearch }) => {
           placeholder={placeholder}
           value={query}
           onChange={handleInputChange}
+          onKeyDown={handleKeyDown}
         />
         <button
           className="bg-green-500 text-white py-2 px-4 rounded-lg ml-2 hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500"
