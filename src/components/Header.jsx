@@ -29,9 +29,9 @@ const Header = () => {
               </a>
             </span>
             <span className="flex items-center space-x-2">
-              <a href="tel:+01234567890" className="flex items-center space-x-2 hover:text-green-500">
+              <a href="tel:+917905209159" className="flex items-center space-x-2 hover:text-green-500">
                 <FontAwesomeIcon icon={faPhone} className="text-[#5cb25d]" />
-                <span>+01234567890</span>
+                <span>+917905209159</span>
               </a>
             </span>
             <span className="flex items-center space-x-2">
@@ -41,7 +41,7 @@ const Header = () => {
           </div>
           <div className="flex space-x-4">
             <a
-              href="https://wa.me/99999999"
+              href="https://wa.me/7905209159"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-green-500"
@@ -51,7 +51,7 @@ const Header = () => {
             <a href="#" className="hover:text-green-500">
               <FontAwesomeIcon icon={faFacebookF} className="hover:animate-bounce" />
             </a>
-            <a href="#" className="hover:text-green-500">
+            <a href="https://www.instagram.com/balaganj_pharmacy__/?hl=en" target="_blank" className="hover:text-green-500">
               <FontAwesomeIcon icon={faInstagram} className="hover:animate-bounce" />
             </a>
             <a href="#" className="hover:text-green-500">

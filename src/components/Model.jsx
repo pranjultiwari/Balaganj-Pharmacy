@@ -17,11 +17,11 @@ const Modal = ({ isOpen, onClose }) => {
         <div className="flex flex-col space-y-4">
           <button className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded flex items-center justify-center space-x-2">
             <AiOutlinePhone />
-            <span>Call Us</span>
+            <span> <a href="tel:+917905209159" target='_blank'> Call Us </a></span>
           </button>
           <button className="bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded flex items-center justify-center space-x-2">
             <AiOutlineWhatsApp />
-            <span>Message Us on WhatsApp</span>
+            <span> <a href="https://wa.me/7905209159" target='_balnk'>Message Us on WhatsApp</a></span>
           </button>
         </div>
       </div>

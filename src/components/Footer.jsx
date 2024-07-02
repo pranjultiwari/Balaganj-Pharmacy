@@ -15,15 +15,15 @@ const Footer = () => {
             <ul className="mb-4">
               <li className="flex items-center mb-2">
                 <FontAwesomeIcon icon={faMapMarkerAlt} className="w-5 h-5 mr-2" />
-                123 Medical St, Health City, IN
+                <strong>544/012N, Balaganj Pharmacy, Campbell Rd, near NAYARA PETROL PUMP, Balaganj, Lucknow, Uttar Pradesh 226003</strong>
               </li>
               <li className="flex items-center mb-2">
                 <FontAwesomeIcon icon={faPhone} className="w-5 h-5 mr-2" />
-                <a href="tel:+919876543210" target='_blank'>+91 98765 43210</a>
+                <a href="tel:+917905209159" target='_blank'>+91 7905209159</a>
               </li>
               <li className="flex items-center mb-2">
                 <FontAwesomeIcon icon={faWhatsapp} className="w-5 h-5 mr-2" />
-                <a href="https://wa.me/99999999"target='_blank'>WhatsApp</a>
+                <a href="https://wa.me/7905209159"target='_blank'>WhatsApp</a>
               </li>
               <li className="flex items-center mb-2">
                 <FontAwesomeIcon icon={faFacebookF} className="w-5 h-5 mr-2" />
@@ -31,7 +31,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center mb-2">
                 <FontAwesomeIcon icon={faInstagram} className="w-5 h-5 mr-2" />
-                <a href="https://www.instagram.com" target='_blank'>Instagram</a>
+                <a href="https://www.instagram.com/balaganj_pharmacy__/?hl=en" target='_blank'>Instagram</a>
               </li>
             </ul>
           </div>
@@ -40,7 +40,7 @@ const Footer = () => {
             <iframe
               title="Google Maps"
               className="w-full h-80 rounded-md"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31711.11668640248!2d-122.41941554219139!3d37.77492951302137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085806f8b8c36a5%3A0x49be9f6bcfc32c3c!2sGolden%20Gate%20Bridge!5e0!3m2!1sen!2sus!4v1622848969791!5m2!1sen!2sus"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.9897666232346!2d80.8763702805208!3d26.872066216520267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399bffcd7ef6e469%3A0x6fb9b36ed3fc620d!2sBalaganj%20Pharmacy!5e0!3m2!1sen!2sin!4v1719920856651!5m2!1sen!2sin"
               allowFullScreen
               loading="lazy"
             ></iframe>
